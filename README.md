@@ -1,4 +1,4 @@
-A Comparative Study of CNN, RNN, and Transfer Learning Models for Facial Emotion Recognition in Gaming
+A Comparative Study of CNN, RNN, and Transfer Learning Models for Facial Emotion Recognition in Gaming context
 
 
                Ayush Gole
